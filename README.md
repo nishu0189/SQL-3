@@ -38,7 +38,8 @@ I will continue to add more SQL concepts and queries as I progress. Stay tuned f
 
 
 ------------------------------------------------------ TABLES IN  -----------------------------------------------------------------------
---TABKE meesho
+
+--TABLE meesho
 
 create table meesho(id int,
 name varchar(30),
